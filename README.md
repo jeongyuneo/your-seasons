@@ -1,5 +1,40 @@
 # 🎨 온라인 퍼스널컬러 진단 서비스, 당신의 계절
 
+## 👨‍👨‍👧‍👧 팀 소개
+
+’치명적인 당신’의 크루를 소개합니다!
+
+![치명적인 크루](images/%EC%B9%98%EB%AA%85%EC%A0%81%EC%9D%B8%20%ED%81%AC%EB%A3%A8.jpg)
+
+
+**프론트엔드**
+
+🧑🏻‍💻 [안성진](https://github.com/anveloper) [📧](mailto:hitedin@gmail.com) (Part Leader)
+
+🧑🏻‍💻 [송상진](https://github.com/DebSang) [📧](mailto:tkdwls180622@gmail.com)
+
+👩🏻‍💻 [박다빈](https://github.com/elqla) [📧](mailto:elqla19@gmail.com)
+
+**백엔드**
+
+🧑🏻‍💻 [이상우](https://github.com/swoody1101) [📧](mailto:swoody1101@gmail.com) (Part Leader)
+
+👩🏻‍💻 [박태이](https://github.com/ehoi-loveyourself) [📧](mailto:ehoi.loveyourself@gmail.com)
+
+👩🏻‍💻 [어정윤](https://github.com/jeongyuneo) [📧](mailto:piq2255@gmail.com)
+
+
+### 🎯 팀문화
+
+1. 회의 시에는 존댓말을 사용한다.
+2. 회의 중 갈등이 심해진다 싶으면 용용체를 쓰자. → **절대 용용체를 쓰지 않기 위해 의견을 굽히지 않는다.**
+3. 지각은 지갑이 열리는 지름길이다. → 적립 후 회비 사용(5,000) → 10번 채워지면 10,000원으로 인상
+4. 회의는 자유롭게 개최, 회의록은 모두에게 공유한다.
+5. 질문은 자유롭게, 답변은 성의있게, 피드백은 진지하게.
+6. 남탓하지 말자.
+7. 칭찬과 감사를 잘 표현하자.
+8. 못한건 안한거다. 핑계대지 말자.
+
 ## 🖥 프로젝트 소개
 
 퍼스널 브랜딩 열풍 속에서 언제나 어디서나 온라인으로 퍼스널 컬러 진단을 받아보세요!
@@ -19,8 +54,6 @@
 프로젝트 개발 환경 및 사용 기술 스택
 
 ### 개발환경
-
-------
 
 🔥 **Backend**
 
@@ -42,17 +75,15 @@
 
 🔥 **WebRTC**
 
-- openvidu 2.22.0
+- Openvidu 2.22.0
 
 🔥 **CI/CD**
 
 - AWS EC2
-- docker
-- nginx
+- Docker
+- Nginx
 
 ### 협업툴
-
-------
 
 - Git
 - Notion
@@ -64,10 +95,7 @@
 ![스크린샷 2022-08-19 오전 10.16.56.png](images/%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.png)
 
 
-
 ## 📜 프로젝트 결과물
-
-------
 
 ### 메인페이지
 
@@ -151,44 +179,3 @@
 - 컨설턴트는 마이페이지에서 본인에게 들어온 예약과 후기를 확인 할 수 있으며, 휴무일과 근무일 지정을 할 수 있습니다. 개인정보 수정을 통해 자기소개/진단비용 등을 수정할 수 있습니다.
 
 ![컨설턴트 마이페이지.gif](images/%EC%BB%A8%EC%84%A4%ED%84%B4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80.gif)
-
-
-
-## 👨‍👨‍👧‍👧 ’치명적인 당신’의 크루를 소개합니다!
-
-![치명적인 크루](images/%EC%B9%98%EB%AA%85%EC%A0%81%EC%9D%B8%20%ED%81%AC%EB%A3%A8.jpg)
-
-
-
-**프론트엔드**
-
-------
-
-🧑🏻‍💻 [안성진](https://github.com/anveloper) [📧](mailto:hitedin@gmail.com) (Part Leader)
-
-🧑🏻‍💻 [송상진](https://github.com/DebSang) [📧](mailto:tkdwls180622@gmail.com)
-
-👩🏻‍💻 [박다빈](https://github.com/elqla) [📧](mailto:elqla19@gmail.com)
-
-**백엔드**
-
-------
-
-🧑🏻‍💻 [이상우](https://github.com/swoody1101) [📧](mailto:swoody1101@gmail.com) (Part Leader)
-
-👩🏻‍💻 [박태이](https://github.com/ehoi-loveyourself) [📧](mailto:ehoi.loveyourself@gmail.com)
-
-👩🏻‍💻 [어정윤](https://github.com/jeongyuneo) [📧](mailto:piq2255@gmail.com)
-
-
-
-## 🎯 팀문화
-
-1. 회의 시에는 존댓말을 사용한다.
-2. 회의 중 갈등이 심해진다 싶으면 용용체를 쓰자. → **절대 용용체를 쓰지 않기 위해 의견을 굽히지 않는다.**
-3. 지각은 지갑이 열리는 지름길이다. → 적립 후 회비 사용(5,000) → 10번 채워지면 10,000원으로 인상
-4. 회의는 자유롭게 개최, 회의록은 모두에게 공유한다.
-5. 질문은 자유롭게, 답변은 성의있게, 피드백은 진지하게.
-6. 남탓하지 말자.
-7. 칭찬과 감사를 잘 표현하자.
-8. 못한건 안한거다. 핑계대지 말자.
