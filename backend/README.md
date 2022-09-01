@@ -1,6 +1,5 @@
 # Back-end
 
----
 ## 팀원
 🧑🏻‍💻 [이상우](https://github.com/swoody1101) [📧](mailto:swoody1101@gmail.com) (Part Leader)
 
